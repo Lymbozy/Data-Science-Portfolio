@@ -1,2 +1,22 @@
-# Data-Science-Portfolio
-Collection of Data Science and Machine Learning projects for scientific and business analysis.
+### Hi there, I'm Michael Lambo! 👋
+
+I am a **Computational Science Enthusiast** and **Chemistry Graduate (4.40/5.00)** transitioning into High Performance Computing. I combine rigorous scientific discipline with modern Data Science techniques to solve complex problems.
+
+- 🔭 **I’m currently working on:** Advanced Machine Learning pipelines for demographic and economic analysis.
+- 🌱 **I’m currently learning:** High Performance Computing (HPC) architectures and Cybersecurity.
+- 🎓 **Education:** B.Sc. Chemistry (LASU) & B.Sc. Cybersecurity (Miva Open University - Distinction Grade).
+- 🏆 **Achievement:** Graduated Top of Class (96.5%) in Youthrive Data Science Specialization.
+
+### 🛠️ Technical Stack
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib).
+* **Machine Learning:** XGBoost, Random Forest, Statistical Hypothesis Testing.
+* **Tools:** Jupyter Notebooks, Git, Seaborn.
+
+### 📊 Featured Projects
+* **[Demographic Income Prediction](https://github.com/YourUsername/Data-Science-Portfolio)**: Built an ML pipeline using XGBoost to predict income inequality with high ROC-AUC scores.
+* **[Ad Campaign A/B Testing](https://github.com/YourUsername/Data-Science-Portfolio)**: Analyzed marketing conversion rates to estimate a $430k revenue uplift.
+* **[Global COVID-19 Analysis](https://github.com/YourUsername/Data-Science-Portfolio)**: Visualized pandemic trends using Seaborn to track infection rates across nations.
+
+---
+*Connecting the dots between Molecules and Algorithms.*
+
